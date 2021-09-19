@@ -77,7 +77,7 @@ addpath(genpath(handles.ConfigurationPath.subject_directory));
 addpath(genpath([handles.ConfigurationPath.freesurfer_directory '/freesurfer/fsfast/toolbox']));
 addpath(genpath([handles.ConfigurationPath.freesurfer_directory '/freesurfer/matlab']));
 
-addpath(genpath(cd));
+%addpath(genpath(cd));
 
 handles.output = hObject;
 
