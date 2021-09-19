@@ -1,0 +1,31 @@
+Subject directory found...
+
+freesurfer directory found...
+
+Could not locate the DICOM subdirectory within the subject directory
+Refer to the documentation for the correct subject directory structure...
+
+Coregistration completed!
+
+Subject directory found...
+
+freesurfer directory found...
+
+Could not locate the DICOM subdirectory within the subject directory
+Refer to the documentation for the correct subject directory structure...
+
+
+
+Segmentation processing... Please don't turn off your computer!
+
+Subject directory found...
+
+freesurfer directory found...
+
+Could not locate the DICOM subdirectory within the subject directory
+Refer to the documentation for the correct subject directory structure...
+
+
+
+Segmentation processing... Please don't turn off your computer!
+
